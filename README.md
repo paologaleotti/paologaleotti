@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm @paologaleotti</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+, I'm @paologaleotti</h1>
 - 🔭 I’m currently working on [recipebook](https://github.com/paologaleotti/recipebook)
 
 - 🌱 I’m currently learning **Frontend and Backend development (Flask - Vue.js)**

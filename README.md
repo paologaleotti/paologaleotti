@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frontend frameworks like React and Vue**
 
-- 👨‍💻 All of my projects are available at [https://paologaleotti.vercel.app/](https://paologaleotti.vercel.app/)
+- 👨‍💻 All of my projects are available at *[WIP...]*
 
 - 📫 Contact me at **paologaleotti2002@gmail.com**
 

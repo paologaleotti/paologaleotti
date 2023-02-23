@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paolo</h1>
 <h3 align="center">A passionate web developer based in Italy</h3>
 
-- 🌱 I’m currently learning **React and backend with NodeJS**
+- 🌱 I’m currently learning **Backend techonologies like microservices architecture and Kubernetes**
 
 - 👨‍💻 Portfolio: https://paologaleotti.vercel.app/
 

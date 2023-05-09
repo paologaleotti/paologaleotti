@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paolo</h1>
-<h3 align="center">A passionate web developer based in Italy</h3>
+<h3 align="center">A passionate developer based in Italy</h3>
 
-- 🌱 I’m currently learning **Backend and cloud techonologies**
+- 🌱 I’m currently learning **Backend, cloud and IoT techonologies**
 
 - 👨‍💻 Portfolio: https://paologaleotti.vercel.app/
 

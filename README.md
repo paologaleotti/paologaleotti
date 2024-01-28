@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Paolo</h1>
 <h3 align="center">A passionate developer based in Italy</h3>
 
-- 🌱 I’m currently learning **Backend, cloud and IoT techonologies**
+- ✨ Experience in Backend, Cloud, IoT and high throughput data processing
 
-- 👨‍💻 Portfolio: https://paologaleotti.vercel.app/
+- 👨‍💻 My website: https://paologaleotti.vercel.app/
 
 - 📫 Contact me at **paologaleotti2002@gmail.com**
 

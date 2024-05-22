@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Paolo, a passionate software developer based in Italy</p>
+<p align="left">Open-source and libre software enjoyer, passionate developer.</p>
 
 ###
 

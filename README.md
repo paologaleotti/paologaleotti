@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">Open-source and libre software enjoyer, passionate developer.</p>
+<p align="left">Open-source and libre software enjoyer, passionate developer. 
+</p>
+
+  I love experimenting with cutting edge techonogies and pushing limits in Web, IoT and industrial data driven applications.
 
 ###
 

@@ -9,14 +9,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Experience in Backend, Cloud, IoT and high performance software<br>👨‍💻 My website: https://paologaleotti.vercel.app/<br>📫 Contact me at paologaleotti2002@gmail.com</p>
-
-###
-
 <h2 align="left">Technologies</h2>
 
 ###
